@@ -1,1 +1,1 @@
-hewkdfuiuewrld
+print("HELLO WORLD")
